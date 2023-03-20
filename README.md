@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OllieRott
+- 👋 Hi, I’m Oliver
 - 👀 I have pretty broad spectrum of interests.
 - 🌱 I’m newbie and currently learning FEWD.
 - 💞️ I’m looking to collaborate on ...dunno yet.
