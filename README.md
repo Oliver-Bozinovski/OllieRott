@@ -1,7 +1,4 @@
-As a former waiter, bartender, and barista with a Logistics & Supply Chain Management diploma, I bring a unique blend of customer service and logistics expertise to the table.  While I enjoyed working in these fields, since January 2022 I have set my sights on a new career path in the IT field.
-
-I am passionate about creating user-friendly, visually appealing websites and applications that meet the needs of clients and customers alike. I am also committed to learning and mastering back-end technologies to become a full-stack web developer.
-<!---
-OllieRott/OllieRott is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate and self-motivated Front End Developer who transitioned into the tech industry just a year ago. With years of rich experience in the HORECA and logistics and supply management sectors, I bring unique problem-solving abilities and a diverse perspective to my development work. I pride myself on my consistency, ability to face challenges head-on, and a continuous appetite for learning.
+I am both a team player who thrives in collaborative settings, and an independent worker capable of managing projects single-handedly. My past experience in the dynamic and challenging sectors of HORECA and supply chain logistics have reinforced these strengths, setting me apart in the realm of front-end development.
+Recently, I completed an intensive course in Front End Development, honing my skills in HTML, CSS, JavaScript, and React. This program amplified my analytical capabilities and my knack for effective, user-friendly design - preparing me to tackle and excel in various complex projects.
+I believe that every team, just like every website, benefits from having diverse, adaptable, and resilient members. With my blend of experiences and skills, I aim to bring these qualities to every project I undertake.
